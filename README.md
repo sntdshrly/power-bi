@@ -1,2 +1,2 @@
-# power-bi
-a set of codes or notes for learning microsoft power bi.
+# Microsoft Power BI
+A set of codes or notes for learning Microsoft Power BI.
